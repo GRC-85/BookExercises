@@ -1,0 +1,6 @@
+c:\users\cleveland codes\documents\visual studio 2015\Projects\SumInts\SumInts\bin\Debug\SumInts.exe.config
+c:\users\cleveland codes\documents\visual studio 2015\Projects\SumInts\SumInts\bin\Debug\SumInts.exe
+c:\users\cleveland codes\documents\visual studio 2015\Projects\SumInts\SumInts\bin\Debug\SumInts.pdb
+c:\users\cleveland codes\documents\visual studio 2015\Projects\SumInts\SumInts\obj\Debug\SumInts.exe
+c:\users\cleveland codes\documents\visual studio 2015\Projects\SumInts\SumInts\obj\Debug\SumInts.pdb
+c:\users\cleveland codes\documents\visual studio 2015\Projects\SumInts\SumInts\obj\Debug\SumInts.csprojResolveAssemblyReference.cache

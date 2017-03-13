@@ -1,0 +1,6 @@
+c:\users\cleveland codes\documents\visual studio 2015\Projects\CheckMonth\CheckMonth\bin\Debug\CheckMonth.exe.config
+c:\users\cleveland codes\documents\visual studio 2015\Projects\CheckMonth\CheckMonth\bin\Debug\CheckMonth.exe
+c:\users\cleveland codes\documents\visual studio 2015\Projects\CheckMonth\CheckMonth\bin\Debug\CheckMonth.pdb
+c:\users\cleveland codes\documents\visual studio 2015\Projects\CheckMonth\CheckMonth\obj\Debug\CheckMonth.csprojResolveAssemblyReference.cache
+c:\users\cleveland codes\documents\visual studio 2015\Projects\CheckMonth\CheckMonth\obj\Debug\CheckMonth.exe
+c:\users\cleveland codes\documents\visual studio 2015\Projects\CheckMonth\CheckMonth\obj\Debug\CheckMonth.pdb

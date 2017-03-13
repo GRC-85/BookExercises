@@ -1,0 +1,12 @@
+c:\users\cleveland codes\documents\visual studio 2015\Projects\Admissions\Admissions\bin\Debug\Admissions.exe.config
+c:\users\cleveland codes\documents\visual studio 2015\Projects\Admissions\Admissions\bin\Debug\Admissions.exe
+c:\users\cleveland codes\documents\visual studio 2015\Projects\Admissions\Admissions\bin\Debug\Admissions.pdb
+c:\users\cleveland codes\documents\visual studio 2015\Projects\Admissions\Admissions\obj\Debug\Admissions.csprojResolveAssemblyReference.cache
+c:\users\cleveland codes\documents\visual studio 2015\Projects\Admissions\Admissions\obj\Debug\Admissions.exe
+c:\users\cleveland codes\documents\visual studio 2015\Projects\Admissions\Admissions\obj\Debug\Admissions.pdb
+C:\Users\Cleveland Codes\Desktop\Chapter 4\Exercises\Admissions\Admissions\bin\Debug\Admissions.exe.config
+C:\Users\Cleveland Codes\Desktop\Chapter 4\Exercises\Admissions\Admissions\obj\Debug\Admissions.exe
+C:\Users\Cleveland Codes\Desktop\Chapter 4\Exercises\Admissions\Admissions\obj\Debug\Admissions.pdb
+C:\Users\Cleveland Codes\Desktop\Chapter 4\Exercises\Admissions\Admissions\bin\Debug\Admissions.exe
+C:\Users\Cleveland Codes\Desktop\Chapter 4\Exercises\Admissions\Admissions\bin\Debug\Admissions.pdb
+C:\Users\Cleveland Codes\Desktop\Chapter 4\Exercises\Admissions\Admissions\obj\Debug\Admissions.csprojResolveAssemblyReference.cache

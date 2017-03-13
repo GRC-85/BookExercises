@@ -1,0 +1,6 @@
+c:\users\cleveland codes\documents\visual studio 2015\Projects\EnterLowerCaseLetters\EnterLowerCaseLetters\bin\Debug\EnterLowerCaseLetters.exe.config
+c:\users\cleveland codes\documents\visual studio 2015\Projects\EnterLowerCaseLetters\EnterLowerCaseLetters\bin\Debug\EnterLowerCaseLetters.exe
+c:\users\cleveland codes\documents\visual studio 2015\Projects\EnterLowerCaseLetters\EnterLowerCaseLetters\bin\Debug\EnterLowerCaseLetters.pdb
+c:\users\cleveland codes\documents\visual studio 2015\Projects\EnterLowerCaseLetters\EnterLowerCaseLetters\obj\Debug\EnterLowerCaseLetters.csprojResolveAssemblyReference.cache
+c:\users\cleveland codes\documents\visual studio 2015\Projects\EnterLowerCaseLetters\EnterLowerCaseLetters\obj\Debug\EnterLowerCaseLetters.exe
+c:\users\cleveland codes\documents\visual studio 2015\Projects\EnterLowerCaseLetters\EnterLowerCaseLetters\obj\Debug\EnterLowerCaseLetters.pdb

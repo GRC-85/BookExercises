@@ -1,0 +1,9 @@
+c:\users\cleveland codes\documents\visual studio 2015\Projects\Twitter1\Twitter1\bin\Debug\Twitter1.exe.config
+c:\users\cleveland codes\documents\visual studio 2015\Projects\Twitter1\Twitter1\bin\Debug\Twitter1.exe
+c:\users\cleveland codes\documents\visual studio 2015\Projects\Twitter1\Twitter1\bin\Debug\Twitter1.pdb
+c:\users\cleveland codes\documents\visual studio 2015\Projects\Twitter1\Twitter1\obj\Debug\Twitter1.csprojResolveAssemblyReference.cache
+c:\users\cleveland codes\documents\visual studio 2015\Projects\Twitter1\Twitter1\obj\Debug\Twitter1.exe
+c:\users\cleveland codes\documents\visual studio 2015\Projects\Twitter1\Twitter1\obj\Debug\Twitter1.pdb
+C:\Users\Cleveland Codes\Desktop\SendToGit\Twitter1\Twitter1\bin\Debug\Twitter1.exe.config
+C:\Users\Cleveland Codes\Desktop\SendToGit\Twitter1\Twitter1\obj\Debug\Twitter1.exe
+C:\Users\Cleveland Codes\Desktop\SendToGit\Twitter1\Twitter1\obj\Debug\Twitter1.pdb

@@ -1,0 +1,6 @@
+c:\users\cleveland codes\documents\visual studio 2015\Projects\HurricaneScale\HurricaneScale\bin\Debug\HurricaneScale.exe.config
+c:\users\cleveland codes\documents\visual studio 2015\Projects\HurricaneScale\HurricaneScale\bin\Debug\HurricaneScale.exe
+c:\users\cleveland codes\documents\visual studio 2015\Projects\HurricaneScale\HurricaneScale\bin\Debug\HurricaneScale.pdb
+c:\users\cleveland codes\documents\visual studio 2015\Projects\HurricaneScale\HurricaneScale\obj\Debug\HurricaneScale.csprojResolveAssemblyReference.cache
+c:\users\cleveland codes\documents\visual studio 2015\Projects\HurricaneScale\HurricaneScale\obj\Debug\HurricaneScale.exe
+c:\users\cleveland codes\documents\visual studio 2015\Projects\HurricaneScale\HurricaneScale\obj\Debug\HurricaneScale.pdb

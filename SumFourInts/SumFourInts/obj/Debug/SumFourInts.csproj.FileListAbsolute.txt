@@ -1,0 +1,6 @@
+c:\users\cleveland codes\documents\visual studio 2015\Projects\SumFourInts\SumFourInts\bin\Debug\SumFourInts.exe.config
+c:\users\cleveland codes\documents\visual studio 2015\Projects\SumFourInts\SumFourInts\bin\Debug\SumFourInts.exe
+c:\users\cleveland codes\documents\visual studio 2015\Projects\SumFourInts\SumFourInts\bin\Debug\SumFourInts.pdb
+c:\users\cleveland codes\documents\visual studio 2015\Projects\SumFourInts\SumFourInts\obj\Debug\SumFourInts.csprojResolveAssemblyReference.cache
+c:\users\cleveland codes\documents\visual studio 2015\Projects\SumFourInts\SumFourInts\obj\Debug\SumFourInts.exe
+c:\users\cleveland codes\documents\visual studio 2015\Projects\SumFourInts\SumFourInts\obj\Debug\SumFourInts.pdb
